@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![sunset](https://github.com/cristinalakasz/cristinalakasz/assets/82213110/1e539d06-7c66-4f27-a520-838dbb6c6328)
+welcome on my githoub page
